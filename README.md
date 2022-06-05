@@ -1,7 +1,11 @@
-# Getting Started with Create React App
+# Base Framework for all front-end & rapid prototype projects.
+### Dependencies
+ - [Tailwind](https://tailwindcss.com/)
+ - [React 18](https://reactjs.org/blog/2022/03/29/react-v18.html)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+###
 
+---------------
 ## Available Scripts
 
 In the project directory, you can run:

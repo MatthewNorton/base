@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -18,6 +18,12 @@ function App() {
           Learn React
         </a>
       </header>
+      {/* tailwindCSS initialize test */}
+      <div class="flex flex-row bg-slate-700 h-screen text-zinc-50 items-center">
+        <div class="basis-1/4 md:basis-1/3">01</div>
+        <div class="basis-1/4 md:basis-1/3">02</div>
+        <div class="basis-1/2 md:basis-1/3">03</div>
+      </div>
     </div>
   );
 }
